@@ -13,7 +13,7 @@ Wanjiku operates a fresh produce stall at Gikomba Market and wants to understand
 ## How to Run
 
 Open in Colab:
-https://colab.research.google.com/github/Sifuna-Dre/plp-da-a1-gikomba-stall-analysis/stall_analysis (1).ipynb at main · Sifuna-Dre/plp-da-a1-gikomba-stall-analysis 
+https://colab.research.google.com/github/Sifuna-Dre/plp-da-a1-gikomba-stall-analysis/blob/main/stall_analysis.ipynb
 
 ## Top Three Findings
 
